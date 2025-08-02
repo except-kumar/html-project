@@ -1,0 +1,52 @@
+div{
+
+    height:60px;
+    background-color:black;
+    position:relative;
+     display:inline-block;
+
+
+}
+
+.the{
+
+    font-size:12px;
+    color:yellow;
+}
+
+.logo{
+
+    padding-left:10px;
+    padding-right:50px;
+    font-size:23px;
+
+
+}
+
+.account{
+
+    padding-right:50px;
+
+}
+
+.cart{
+
+    padding-right:50px;
+}
+
+.contact{
+
+    padding-right:50px;
+   
+}
+
+.search-form {
+  display: flex;
+  align-items: center;
+  width:20px;
+}
+
+.search-form input {
+  padding: 5px;
+  margin-right: 5px;
+}
