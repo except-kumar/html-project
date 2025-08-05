@@ -1,0 +1,51 @@
+
+body{
+
+  margin:0;
+  padding:0;
+
+}
+
+div{
+
+  height:50px;
+  width:100%;
+  background-color:#45462a;
+  display:flex;
+  align-items:center;
+  padding:0 20px;
+  background-image:url("cafe logo.jpg");
+  background-size: contain;  
+  background-repeat: no-repeat;
+  background-position: left center; 
+  height: 150px;  
+  
+
+
+
+}
+
+
+
+
+.the{
+
+
+  padding-left:135px;
+  text-decoration:none;
+  font-family:Zodiak;
+  font-weight:547;
+  color: #e2c101;
+  transition: 0.3s ease;
+  
+
+}
+
+.the:hover {
+  color: white;            
+  background-color: #6d6e3c; 
+  border-radius: 5px;      
+      
+   
+}
+
