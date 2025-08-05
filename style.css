@@ -3,6 +3,7 @@ body{
 
   margin:0;
   padding:0;
+  background-color:#FFC5C5;
 
 }
 
@@ -49,3 +50,32 @@ div{
    
 }
 
+#contentop{
+
+
+
+
+background-color:#FFC5C5;
+padding:0 20px;
+background-image:url("b10d9994-2493-4d0a-8aaf-49e0696ac6ad.jpeg");
+border-radius: 50px;
+background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 600px; 
+  width: 80%;  
+  margin: auto;
+
+
+
+
+
+}
+#quote{
+
+  font-family:"Playwrite AU QLD", cursive;
+  text-align: center;
+  font-size: 25px;
+  color:#58260b;
+  
+}
