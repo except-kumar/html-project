@@ -19,7 +19,8 @@ div{
   background-size: contain;  
   background-repeat: no-repeat;
   background-position: left center; 
-  height: 150px;  
+  height: 150px;
+  position: sticky;
   
 
 
@@ -78,4 +79,45 @@ background-size: contain;
   font-size: 25px;
   color:#58260b;
   
+}
+.container {
+  display: flex;
+  justify-content: space-between;  
+  margin: 20px;
+}
+
+.a {
+  height: 190px;
+  width: 340px;
+  border-radius: 20px;
+  color: white;
+  font-size: 24px;
+  display: flex;           
+  align-items: center;
+  justify-content: center;
+   font-family:"dancing script", cursive;
+}
+
+.coffee {
+  background-color: rgb(5, 43, 43);
+  background-image:url("Perfect Your Cup Brewing Secrets for Indonesian Coffee Beans.jpeg");
+  background-position: center;
+  background-size: contain;
+
+}
+
+.tea {
+  background-color: rgb(43, 5, 43);
+  background-image:url("chaiop.jpeg");
+   background-position: center;
+   background-size: contain;
+
+}
+
+.snacks {
+  background-color: rgb(43, 43, 5);
+  background-image:url("snacks.jpeg");
+   background-position: center;
+   background-size: contain;
+
 }
